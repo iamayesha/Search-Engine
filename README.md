@@ -18,6 +18,7 @@ To clone and run this application, you will need the following installed on your
     - Kibana 
     
  # Kibana Dashboard
+ ![alt text](https://github.com/iamayesha/Search-Engine/blob/master/Dahboard.png "Dashboard Screenshot")
  
 
 
