@@ -4,10 +4,12 @@ Content Search Engine which implements tagging and dashboard to analyse viewing 
 ## Features
 
 Rest API :
+    
     1.Search content by Tag
     2.Search content by Title
     
 Dashboard :
+    
     1.Visualise top searched tags
     2.Visualise top searched titles
     3.Visualise searching activity by region
