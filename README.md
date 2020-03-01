@@ -4,13 +4,13 @@ Content Search Engine which implements tagging and dashboard to analyse viewing 
 ## Features
 
 Rest API :
-    -   Search content by Tag
-    -   Search content by Title
+    - Search content by Tag
+    - Search content by Title
     
 Dashboard :
-    -   Visualise top searched tags
-    -   Visualise top searched titles
-    -   Visualise searching activity by region
+    - Visualise top searched tags
+    - Visualise top searched titles
+    - Visualise searching activity by region
     
 ## Built With
     SpringBoot - The Java framework used
