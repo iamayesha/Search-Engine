@@ -8,10 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-Deployment
-
-Add additional notes about how to deploy this on a live system
-Built With
+  # Built With
 
     SpringBoot - The Java framework used
     Maven - Dependency Management
